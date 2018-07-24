@@ -1,13 +1,10 @@
-<<<<<<< Updated upstream
 master分支修改
 
 在issue-404分支上修改
-=======
 bb
 
 111111
 22222
 333333
 都是dev分支上修改的·
-
->>>>>>> Stashed changes
+master再修改
